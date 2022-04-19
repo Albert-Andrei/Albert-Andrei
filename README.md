@@ -1,3 +1,6 @@
+![Albert](https://user-images.githubusercontent.com/58509123/164079672-06a20cd2-3c8d-43c3-896f-7ffd069c84a4.jpg)
+
+
 <a href="https://github.com/https://github.com/Albert-Andrei" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -73,9 +76,7 @@ I'm a frontend developer specializing in creating premium interfaces that are ac
 
   
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+<br/>    
   
 
 <br/>  
