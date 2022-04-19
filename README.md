@@ -1,4 +1,5 @@
-![Albert](https://user-images.githubusercontent.com/58509123/164079672-06a20cd2-3c8d-43c3-896f-7ffd069c84a4.jpg)
+![Albert](https://user-images.githubusercontent.com/58509123/164080194-79198d7f-ca7b-4829-9205-8f72337cc240.jpg)
+
 
 
 <a href="https://github.com/https://github.com/Albert-Andrei" target="_blank">
